@@ -8,6 +8,7 @@
 </head>
 <body>
 <p>The about page</p>
+<a href="file1.jsp">file1</a>
 
 </body>
 </html>
