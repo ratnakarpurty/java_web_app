@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h1>MSG from Govt. of INDIA</h1>
 <p>Added new jsp file,later</p>
+
 </body>
 </html>
